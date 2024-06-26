@@ -29,5 +29,6 @@ game on itch.io: [link](https://{itchioUsername}.itch.io/{jamName})
 
 ### Meta
 
-- Figure out how to develop for mobile
-  - How to use the on-screen keyboard
+- Figure out how to use these Godot tools
+  - Theme
+  - UI
