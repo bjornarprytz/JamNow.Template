@@ -32,3 +32,5 @@ game on itch.io: [link](https://{itchioUsername}.itch.io/{jamName})
 - Figure out how to use these Godot tools
   - Theme
   - UI
+- Tackle multiplayer in HTML5
+  - https://www.reddit.com/r/godot/comments/bux2hs/how_to_use_godots_high_level_multiplayer_api_with/
