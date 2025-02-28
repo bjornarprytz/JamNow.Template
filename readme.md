@@ -7,14 +7,17 @@ game on itch.io: [link](https://{itchioUsername}.itch.io/{jamName})
 - Import the project into Godot
 
 - Setup itch.io page for {jamName} [link](https://itch.io/game/new)
+  - Set Project URL to {jamName} (can be changed later)
   - Set Kind to HTML
-  - Set viewport dimensions (normal: 1280x720)
-  - Check SharedArrayBuffer
   - Hit the Save button
 - Get Butler API key from [itch.io](https://itch.io/user/settings/api-keys)
 - Publish github repo
 - Add key to GitHub repository secrets as BUTLER_API_KEY [link](https://github.com/{githubUsername}/{jamName}/settings/secrets/actions)
 - Push release with `./push_release.sh`
+- Go [here](https://itch.io/game/new) and edit game:
+  - Check "This file will be played in the browser"
+  - Set viewport dimensions (normal: 1280x720)
+  - Check SharedArrayBuffer
 
 ### Extra
 
