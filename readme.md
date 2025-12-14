@@ -14,7 +14,7 @@ game on itch.io: [link](https://{itchioUsername}.itch.io/{jamName})
 - Publish github repo
 - Add key to GitHub repository secrets as BUTLER_API_KEY [link](https://github.com/{githubUsername}/{jamName}/settings/secrets/actions)
 - Push release with `./push_release.sh`
-- Go [here](https://itch.io/game/new) and edit game:
+- Go [here](https://{itchioUsername}.itch.io/{jamName}/edit) and edit game:
   - Check "This file will be played in the browser"
   - Set viewport dimensions (normal: 1280x720)
   - Check SharedArrayBuffer
