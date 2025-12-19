@@ -32,5 +32,7 @@ game on itch.io: [link](https://{itchioUsername}.itch.io/{jamName})
 
 ### Meta
 
+- Try programmatic theme
+  - https://github.com/Inspiaaa/ThemeGen
 - Tackle multiplayer in HTML5
   - https://www.reddit.com/r/godot/comments/bux2hs/how_to_use_godots_high_level_multiplayer_api_with/
